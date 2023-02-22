@@ -6,6 +6,6 @@ public class NewTest {
     @Test
     void newTest (){
         System.out.println("BBBBbbest");
-        Assertions.assertTrue(3>2);
+        Assertions.assertTrue(3>1);
     }
 }
